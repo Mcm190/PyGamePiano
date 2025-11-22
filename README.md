@@ -4,7 +4,7 @@ Dependancies - pygame, mido
 
 Usage - python pyiano [.mid file]
 
-Demo
+Demo (excuse the poor quality video)
 
 
 
